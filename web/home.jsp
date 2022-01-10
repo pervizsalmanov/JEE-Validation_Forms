@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Admin CPanel - Bookshop</title>
+<title>Login</title>
 </head>
 <body>
     <div style="text-align: center">
-        <h1>Welcome to Bookshop Website Admin Panel</h1>
-        <b>${users.fullname} (${users.email})</b>
+        <a href="https://github.com/pervizsalmanov"><h1>Мой Github</h1></a>
+        <b>${user.fullname} (${user.email})</b>
         <br><br>
         <a href="../Web-Login/logout">Logout</a>
     </div>

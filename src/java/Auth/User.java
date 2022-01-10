@@ -1,39 +1,40 @@
 package Auth;
 
 public class User {
-    private int id;
-    private String fullname;
-    private String email;
-    private String password;
- 
-      public int getUserid() {
-            return id;
-        }
-       public void setUserid(int userid) {
-            this.id = id;
-        }
+	private int id;
+	private String fullname;
+	private String email;
+	private String password;
 
-       public String getFname() {
-            return fullname;
-        }
+	public int getId() {
+		return id;
+	}
 
-       public void setFname(String fullname) {
-            this.fullname = fullname;
-        }
+	public void setId(int id) {
+		this.id = id;
+	}
 
-       public String getLname() {
-            return email;
-        }
+	public String getFullname() {
+		return fullname;
+	}
 
-        public void setLname(String email) {
-            this.email = email;
-        }
-     
-        public String getPassword() {
-            return password;
-        }
+	public void setFullname(String fullname) {
+		this.fullname = fullname;
+	}
 
-        public void setPassword(String password) {
-            this.password = password;
-        }
+	public String getEmail() {
+		return email;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+
+	public String getPassword() {
+		return password;
+	}
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
 }
