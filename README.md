@@ -12,7 +12,7 @@
   ![Screenshot_3](https://user-images.githubusercontent.com/14164770/148748965-07b11046-25ea-4783-85a5-445d96811c0c.png)
 
 
-<h3>Create Databasse | User √ <h3> 
+<h3>Create Databasse | User √<h3> 
 
 ```
 CREATE Table `users` (
@@ -24,7 +24,7 @@ CREATE Table `users` (
 ) ENGINE=InnoDB;
 ```
 
-<h3>Create Databasse | Customers √ <h3> 
+<h3>Create Databasse | Customers √<h3> 
  
 ```
 CREATE TABLE `users` (
@@ -38,12 +38,12 @@ CREATE TABLE `users` (
 ) ENGINE=InnoDB;
 ```
 
-<h3>Sign In and Logout √<h3> 
+<h3>Sign In √<h3> 
 
   https://user-images.githubusercontent.com/14164770/149137142-73d2e677-c9ae-4f39-9f70-d12b3140eb80.mp4
 
 
-<h3>Sign Up and Login √<h3> 
+<h3>Sign Up √<h3> 
 
   https://user-images.githubusercontent.com/14164770/149137162-07f0ce22-d99a-4a7f-9254-5188bd93c2e2.mp4
 
