@@ -3,14 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/pervi/Desktop/JEE-Validation_Forms/src/java/Reg/Register.java</file>
-            <file>file:/C:/Users/pervi/Desktop/JEE-Validation_Forms/src/java/Auth/UserLogoutServlet.java</file>
-            <file>file:/C:/Users/pervi/Desktop/JEE-Validation_Forms/src/java/Reg/RegisterServlet.java</file>
-            <file>file:/C:/Users/pervi/Desktop/JEE-Validation_Forms/src/java/Auth/UserLoginServlet.java</file>
-            <file>file:/C:/Users/pervi/Desktop/JEE-Validation_Forms/src/java/Auth/User.java</file>
-            <file>file:/C:/Users/pervi/Desktop/JEE-Validation_Forms/src/java/Auth/UserDAO.java</file>
-            <file>file:/C:/Users/pervi/Desktop/JEE-Validation_Forms/src/java/Reg/RegisterDao.java</file>
-            <file>file:/C:/Users/pervi/Desktop/JEE-Validation_Forms/src/java/Reg/RegisterDb.java</file>
+            <file>file:/C:/Users/pervi/Desktop/JEE-Validation_Forms/web/HomeLogin.jsp</file>
+            <file>file:/C:/Users/pervi/Desktop/JEE-Validation_Forms/web/index.jsp</file>
+            <file>file:/C:/Users/pervi/Desktop/JEE-Validation_Forms/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/pervi/Desktop/JEE-Validation_Forms/web/reg/Register.jsp</file>
+            <file>file:/C:/Users/pervi/Desktop/JEE-Validation_Forms/web/reg/HomeRegister.jsp</file>
         </group>
     </open-files>
 </project-private>

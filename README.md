@@ -3,8 +3,8 @@
   <h2>Open</h2>
 
 1. Backend Application  
-2. JAVA EE | MYSQL | JDBC | TOMCAT 10 | SERVLET   
-3. Sign In | Logout | Sign Up | Change password | Reset password | Remember Me | Facebook Api
+2. JAVA EE | MYSQL | JSP | JDBC | TOMCAT 10 | SERVLET   
+3. Sign In √ | Sign Up √ | Forgot Password | Social API
 
   <h2>Demo</h2>
 <h3>Create Server √<h3>
@@ -12,7 +12,7 @@
   ![Screenshot_3](https://user-images.githubusercontent.com/14164770/148748965-07b11046-25ea-4783-85a5-445d96811c0c.png)
 
 
-<h3>Create Database | Users √ <h3> 
+<h3>Create Databasse | User √ <h3> 
 
 ```
 CREATE Table `users` (
@@ -23,26 +23,29 @@ CREATE Table `users` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB;
 ```
-  ![Screenshot_2](https://user-images.githubusercontent.com/14164770/148748854-4086d3ed-8d96-454e-af56-ebf9fa81a29c.png)
 
-  
-<h3>Value table √<h3>  
-
-  ![Screenshot_1](https://user-images.githubusercontent.com/14164770/148749022-d736843d-4219-4869-9e96-2d5dea4d7134.png)
+<h3>Create Databasse | Customers √ <h3> 
+ 
+```
+CREATE TABLE `users` (
+  `SINo` INT UNSIGNED NOT NULL AUTO_INCREMENT,
+   PRIMARY KEY (sINO),
+  `fullName` varchar(30) NOT NULL,
+  `Email` varchar(30) NOT NULL,
+  `userName` varchar(30) NOT NULL,
+  `password` varchar(30) NOT NULL,
+   UNIQUE KEY (`userName`)
+) ENGINE=InnoDB;
+```
 
 <h3>Sign In and Logout √<h3> 
 
+  https://user-images.githubusercontent.com/14164770/149137142-73d2e677-c9ae-4f39-9f70-d12b3140eb80.mp4
 
-https://user-images.githubusercontent.com/14164770/148825751-664243b4-3b9b-45be-9111-9657f75fea19.mp4
 
+<h3>Sign Up and Login √<h3> 
 
-  
+  https://user-images.githubusercontent.com/14164770/149137162-07f0ce22-d99a-4a7f-9254-5188bd93c2e2.mp4
 
- 
-<h3>Register<h3>
-
-<h3>Change password<h3>
-
-<h3>Reset password<h3>
 
  

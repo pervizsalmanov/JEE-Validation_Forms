@@ -40,11 +40,11 @@
 			<form action="login" class="signin-form" method="post">
 			      		<div class="form-group mb-3">
 			      			 <label for="email">Email:</label>
-                                                 <input name="email" size="30" />
+                                                 <input name="email" size="40em" />
 			      		</div>
 		            <div class="form-group mb-3">
 		            	  <label for="password">Password:</label>
-                                  <input type="password" name="password" size="30" />
+                                  <input type="password" name="password" size="30.5em" />
 		            </div>
 		            <div class="form-group">
 		            	<button type="submit" class="form-control btn btn-primary rounded submit px-3">Sign In</button>
@@ -60,9 +60,9 @@
 										<a href="#">Forgot Password</a>
 									</div>
 		            </div>${message}
-		          
-                          <p class="text-center">Not a member? <a data-toggle="tab" href="reg.jsp">Sign Up</a></p>
-                          </form>
+		          </form>
+                          <p class="text-center">Not a member? 
+                          <form action="reg/Register.jsp"><button type="submit" style="background: #5482a1 !important" class="form-control btn btn-primary rounded submit px-3">Sign Up</button></form>    
 		        </div>
 		      </div>
 				</div>
